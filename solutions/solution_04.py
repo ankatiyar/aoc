@@ -1,4 +1,4 @@
-with open('../inputs/input04.txt') as f:
+with open('inputs/input04.txt') as f:
     lines = f.readlines()
 
 count1 = 0

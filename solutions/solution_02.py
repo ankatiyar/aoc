@@ -1,4 +1,4 @@
-with open('../inputs/input02.txt') as f:
+with open('inputs/input02.txt') as f:
     lines = f.readlines()
 
 moves = dict({"A X": 4, "A Y": 8, "A Z": 3, "B X": 1, "B Y": 5, "B Z": 9, "C X": 7, "C Y": 2, "C Z": 6})

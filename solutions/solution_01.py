@@ -1,4 +1,4 @@
-with open('../inputs/input01.txt') as f:
+with open('inputs/input01.txt') as f:
     lines = f.readlines()
 
 elfs = []

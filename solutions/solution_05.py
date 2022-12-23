@@ -1,4 +1,4 @@
-with open('../inputs/input05.txt') as f:
+with open('inputs/input05.txt') as f:
     lines = f.readlines()
 
 # TODO : the stack input also from input file
